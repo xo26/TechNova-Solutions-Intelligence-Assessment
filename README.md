@@ -2,7 +2,7 @@
 
 ![Banner](banner.png)
 
-![OSINT Case Study]
+OSINT Case Study
 
 ---
 
